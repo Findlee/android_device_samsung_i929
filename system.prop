@@ -1,0 +1,5 @@
+#
+# system.prop for sch-i929
+#
+
+persist.sys.usb.config=mass_storage,adb
